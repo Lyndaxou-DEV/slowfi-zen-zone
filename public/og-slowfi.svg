@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="0%" r="100%">
+      <stop offset="0%" stop-color="#1a3a3a"/>
+      <stop offset="60%" stop-color="#0f1f25"/>
+      <stop offset="100%" stop-color="#08141a"/>
+    </radialGradient>
+    <linearGradient id="aurora" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6ee7b7"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="600" cy="180" r="180" fill="url(#aurora)" opacity="0.25"/>
+  <text x="600" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="72" font-style="italic" fill="#e6f7ef">Slow·Fi</text>
+  <text x="600" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="url(#aurora)">Le débit qui protège votre sommeil</text>
+  <text x="600" y="470" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" fill="#9ab8b8">À 18h30, votre connexion s'apaise. Naturellement.</text>
+  <text x="600" y="560" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#5d7878" letter-spacing="4">SLOW-FI · PAR ALCHIMY</text>
+</svg>
